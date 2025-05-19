@@ -55,4 +55,15 @@
 - Препорака е да се направи конфигурација на firewall/DNS за да се **скријат тест и стара околина**, со цел **намалување на потенцијални напади**.
 
 ---
+## Слики и команди
+Команда: C:\Users\HP>whois 13.32.110.65
+CMD:
+![image](https://github.com/user-attachments/assets/caf1986c-c572-4317-9f69-c9a9a9e5fad4)
+WEB:
+![image](https://github.com/user-attachments/assets/f3d74ae9-7ede-4645-b2fc-a4e43f48080e)
+
+
+
+
+
 
